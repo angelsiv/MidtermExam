@@ -1,0 +1,10 @@
+hi
+i think i would have liked more time
+
+- i tried to do the client to rotate towards the First person character using a task in the BT.
+- started event hit on the client, very unpolished
+
+- finished widget bp for entry point: not so polished as i want to
+- wasn't sure if i needed billboard effect so didn't do it
+
+- started widgetbp for client count: not connected to actual player variables so not functioning :(
